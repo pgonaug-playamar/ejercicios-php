@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Relación 1 - Ejercicio 16 - Divisores de un número</title>
+    <link rel="shortcut icon" href="./logo-ies-playamar.png" type="image/x-icon">
     <style>
         .divisor {color:red;}
     </style>

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Relación 1 - Ejercicio 17 - División entera por Euclides</title>
+    <link rel="shortcut icon" href="./logo-ies-playamar.png" type="image/x-icon">
 </head>
 <body>
     <h2>Cálculo de la división entera por el algoritmo de Euclides</h2>

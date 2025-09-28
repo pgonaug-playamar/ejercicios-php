@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Relación 1 - Ejercicio 17 - División entera por Euclides</title>
+    <title>Relación 1 - Ejercicio 18 - MCD de dos números por Euclides</title>
+    <link rel="shortcut icon" href="./logo-ies-playamar.png" type="image/x-icon">
 </head>
 <body>
     <h2>Cálculo del MCD de dos números naturales por el algoritmo de Euclides</h2>

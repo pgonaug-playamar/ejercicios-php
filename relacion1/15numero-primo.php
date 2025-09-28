@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Relación 1 - Ejercicio 15 - Número primo</title>
+    <link rel="shortcut icon" href="./logo-ies-playamar.png" type="image/x-icon">
 </head>
 <body>
     <h2>Programa que te dice si un número es primo o no</h2>
