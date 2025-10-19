@@ -4,5 +4,5 @@
 
 1. [Relación 1 - Ejercicios iniciales](https://github.com/pgonaug-playamar/ejercicios-php/blob/main/relaciones%20de%20ejercicios%20PHP/1-relaci%C3%B3n-iniciales.pdf)
 2. [Relación 2 - Formularios, estilo con Bootstrap y validación JS](https://github.com/pgonaug-playamar/ejercicios-php/blob/main/relaciones%20de%20ejercicios%20PHP/2-relaci%C3%B3n-formulariosyestilo.pdf)
-   (ejercicio 12 resuelto en [repositorio aparte](https://github.com/pgonaug-playamar/formulario-con-validaciones))
+   - (ejercicio 12 resuelto en [repositorio aparte](https://github.com/pgonaug-playamar/formulario-con-validaciones))
 4. Relación 3 - Funciones, recursividad, y uso avanzado de Arrays
